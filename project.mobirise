@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "servicos.html",
     "versionFirst": "3.3",
     "versionPublish": "3.10.1",
     "name": "Primus Contabilidade",
@@ -155,8 +155,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-21\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"servicos.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-21\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -533,8 +533,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"servicos.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-21\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -597,7 +597,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/preview-1400x1400-25.jpg",
-              "link": "",
+              "link": "servicos.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -649,9 +649,9 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p></p><p></p><p><b>ABERTURA DE EMPRESAS:</b></p><p>PLANEJAMENTO TRIBUTÁRIO</p>DEFINIÇÃO DE NATUREZA JURíDICA<p></p><p></p><p>ELABORAÇÃO DO CONTRATO SOCIAL</p><p>REGISTRO NA JUNTA COMERCIAL</p><p>REGISTRO NA RECEITA FEDERAL</p>REGISTRO NA PREFEITURA<p></p><p></p><p>REGISTRO EM CONSELHOS REGIONAIS</p><p>EMISSÃO DE NOTAS FISCAIS ELETRÔNICAS</p><p></p><p></p>",
+          "text2": "<p></p><p><b>REGULARIZAÇÃO:</b></p><p>CONSULTORIA EMPRESARIAL</p>LEVANTAMENTO DE PENDÊNCIAS<p></p><p></p>ENTREGA DE DECLARAÇÕES<p>EMISSÃO DE CERTIDÕES</p><p>PARCELAMENTO DOS DÉBITOS</p><p>ALTERAÇÃO CONTRATUAL</p><p>REATIVAÇÃO DA INSCRIÇÃO ESTADUAL</p><p>PESQUISA DE SITUAÇÃO FISCAL</p><p>ACESSORIA PARA REGULARIZAÇÃO</p><p></p>",
+          "text3": "<p><b>ACESSORIA CONTÁBIL:</b></p><p>MIGRAR EMPRESA MEI PARA ME</p><p>ALTERAÇÃO CONTRATUAL</p><p>MUDANÇA DE RAMO DE ATIVIDADE</p><p>LICENÇA E ALVARÁ</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">REGISTRO NOS ORGÃOS COMPETENTES</span><br></p><p>ABERTURA/ENCERRAMENTO DE EMPRESA</p><p>FOLHA DE PAGAMENTO</p><p>IMPOSTO DE RENDA</p>"
         },
         {
           "_tags": [
@@ -661,8 +661,8 @@
           "_anchor": "msg-box5-9",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -684,8 +684,8 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/preview-1400x1400-66.jpg",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/primus-mobile-1400x1400-14.jpg",
+              "link": "servicos.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -702,8 +702,8 @@
               "size": 0
             }
           },
-          "title": "Seja Super, use o Poder da Internet",
-          "text": "Ser rápido como um foguete e&nbsp;",
+          "title": "Seja Primus, controle em suas mãos",
+          "text": "Sua empresa na frente e você no controle sempre que precisar.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -732,13 +732,16 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"servicos.html\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>",
           "text": "Use nossa central para tirar suas dúvidas ou solicitar cotações.",
           "title": "FALE CONOSCO"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts1",
-          "_anchor": "contacts1-4",
+          "_anchor": "contacts1-22",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -756,7 +759,7 @@
               "src": "@PROJECT_PATH@/assets/images/primus-gray-2-128x128-80.png",
               "width": 128,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -769,7 +772,7 @@
           },
           "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
           "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">RESET DE SENHA</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">MANUAL DO SISTEMA</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">FALE CONOSCO</a>"
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://mobirise.com/\">LOGIN</a><br><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"index.html#form1-21\">FALE CONOSCO</a>"
         },
         {
           "_name": "footer1",

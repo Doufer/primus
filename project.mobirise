@@ -573,8 +573,8 @@
           "_anchor": "msg-box5-7",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -649,9 +649,9 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p></p><p></p><p><b>ABERTURA DE EMPRESAS:</b></p><p>PLANEJAMENTO TRIBUTÁRIO</p>DEFINIÇÃO DE NATUREZA JURíDICA<p></p><p></p><p>ELABORAÇÃO DO CONTRATO SOCIAL</p><p>REGISTRO NA JUNTA COMERCIAL</p><p>REGISTRO NA RECEITA FEDERAL</p>REGISTRO NA PREFEITURA<p></p><p></p><p>REGISTRO EM CONSELHOS REGIONAIS</p><p>EMISSÃO DE NOTAS FISCAIS ELETRÔNICAS</p><p></p><p></p>",
-          "text2": "<p></p><p><b>REGULARIZAÇÃO:</b></p><p>CONSULTORIA EMPRESARIAL</p>LEVANTAMENTO DE PENDÊNCIAS<p></p><p></p>ENTREGA DE DECLARAÇÕES<p>EMISSÃO DE CERTIDÕES</p><p>PARCELAMENTO DOS DÉBITOS</p><p>ALTERAÇÃO CONTRATUAL</p><p>REATIVAÇÃO DA INSCRIÇÃO ESTADUAL</p><p>PESQUISA DE SITUAÇÃO FISCAL</p><p>ACESSORIA PARA REGULARIZAÇÃO</p><p></p>",
-          "text3": "<p><b>ACESSORIA CONTÁBIL:</b></p><p>MIGRAR EMPRESA MEI PARA ME</p><p>ALTERAÇÃO CONTRATUAL</p><p>MUDANÇA DE RAMO DE ATIVIDADE</p><p>LICENÇA E ALVARÁ</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">REGISTRO NOS ORGÃOS COMPETENTES</span><br></p><p>ABERTURA/ENCERRAMENTO DE EMPRESA</p><p>FOLHA DE PAGAMENTO</p><p>IMPOSTO DE RENDA</p>"
+          "text1": "<p></p><p></p><p><b><br></b></p><p><b>ABERTURA DE EMPRESAS:</b></p><p>PLANEJAMENTO TRIBUTÁRIO</p>DEFINIÇÃO DE NATUREZA JURíDICA<p></p><p></p><p>ELABORAÇÃO DO CONTRATO SOCIAL</p><p>REGISTRO NA JUNTA COMERCIAL</p><p>REGISTRO NA RECEITA FEDERAL</p>REGISTRO NA PREFEITURA<p></p><p></p><p>REGISTRO EM CONSELHOS REGIONAIS</p><p>EMISSÃO DE NOTAS FISCAIS ELETRÔNICAS</p><p></p><p></p>",
+          "text2": "<p></p><p><b><br></b></p><p><b>REGULARIZAÇÃO:</b></p><p>CONSULTORIA EMPRESARIAL</p>LEVANTAMENTO DE PENDÊNCIAS<p></p><p></p>ENTREGA DE DECLARAÇÕES<p>EMISSÃO DE CERTIDÕES</p><p>PARCELAMENTO DOS DÉBITOS</p><p>ALTERAÇÃO CONTRATUAL</p><p>REATIVAÇÃO DA INSCRIÇÃO ESTADUAL</p><p>PESQUISA DE SITUAÇÃO FISCAL</p><p>ACESSORIA PARA REGULARIZAÇÃO</p><p></p>",
+          "text3": "<p><b><br></b></p><p><b>ACESSORIA CONTÁBIL:</b></p><p>MIGRAR EMPRESA MEI PARA ME</p><p>ALTERAÇÃO CONTRATUAL</p><p>MUDANÇA DE RAMO DE ATIVIDADE</p><p>LICENÇA E ALVARÁ</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">REGISTRO NOS ORGÃOS COMPETENTES</span><br></p><p>ABERTURA/ENCERRAMENTO DE EMPRESA</p><p>FOLHA DE PAGAMENTO</p><p>IMPOSTO DE RENDA</p>"
         },
         {
           "_tags": [

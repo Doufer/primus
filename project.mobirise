@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "primus.html",
+    "currentPage": "index.html",
     "versionFirst": "3.3",
     "versionPublish": "3.10.1",
     "name": "Primus Contabilidade",
@@ -25,7 +25,7 @@
     "scrollAnimation": "true",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 24
+    "uniqCompNum": 35
   },
   "pages": {
     "index.html": {
@@ -73,7 +73,7 @@
           },
           "title": "Primus WEB",
           "text": "Acesse e controle toda a documentação de sua empresa de forma digital, rápida e em qualquer lugar. Chega de Papel!",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ASSINAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://packup.alterdata.com.br/PRIMUS\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ENTRAR</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\">ASSINAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://packup.alterdata.com.br/PRIMUS\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ENTRAR</a>"
         },
         {
           "_styles": {
@@ -155,8 +155,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"servicos.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html#\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-21\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"primus.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -365,7 +365,7 @@
           "title": "SOLICITE AGORA",
           "subtitle": "Ficaremos felizes em tirar suas dúvidas e liberar seu acesso ao sistema hoje mesmo.",
           "form": {
-            "action": "douglasn@gmail.com",
+            "action": "anthonygoncalvesadv@gmail.com",
             "alerts": {
               "success": "Obrigado por enviar, aguarde contato!"
             },
@@ -426,7 +426,7 @@
           },
           "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
           "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"index.html#form1-21\">FALE CONOSCO</a>"
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
         },
         {
           "_name": "footer1",
@@ -533,8 +533,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"servicos.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html#\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-21\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"primus.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -717,7 +717,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/slide1-2000x694-46.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/oekdez0-2000x1335-83.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -732,7 +732,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"servicos.html\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>",
           "text": "Use nossa central para tirar suas dúvidas ou solicitar cotações.",
           "title": "FALE CONOSCO"
         },
@@ -772,7 +772,7 @@
           },
           "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
           "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"index.html#form1-21\">FALE CONOSCO</a>"
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
         },
         {
           "_name": "footer1",
@@ -869,7 +869,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-pp-128x128-1.png",
               "height": 128,
               "alt": "LOGO",
-              "link": "https://#",
+              "link": "index.html",
               "title": "LOGO",
               "linkInNewWindow": false
             },
@@ -879,8 +879,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"servicos.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html#\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-21\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"primus.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1071,7 +1071,7 @@
             }
           },
           "title": "Uma idéia que vale",
-          "text": "Uma idéia que vale mais que 1 tonelada de papéis e deve ser compartilhada com seus parceiros de negócio.&nbsp;",
+          "text": "Uma idéia que vale mais que 1 tonelada de papéis, compartilhe com seus parceiros de negócio.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1085,7 +1085,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/slide1-2000x694-46.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/oekdez0-2000x1335-91.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1100,8 +1100,8 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"servicos.html\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>",
-          "text": "Use nossa central para tirar suas dúvidas ou solicitar cotações.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contato.html\" data-toolbar=\"-mbrBtnMove\">CONTATO</a>",
+          "text": "Use nossa central para tirar suas dúvidas ou solicitar o serviço.",
           "title": "FALE CONOSCO"
         },
         {
@@ -1140,11 +1140,493 @@
           },
           "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
           "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
-          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"index.html#form1-21\">FALE CONOSCO</a>"
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
         },
         {
           "_name": "footer1",
           "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Primus. Desenhado por <a href=\"http://portfolio.douglasnegreiros.net\" target=\"_blank\" class=\"text-primary\">Douglas Negreiros</a>"
+        }
+      ]
+    },
+    "contato.html": {
+      "settings": {
+        "title": "Fale Conosco | Primus Contabilidade",
+        "meta_descr": "Fale conosco via e-mail, telefone ou Chat"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "17px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-r",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/Doufer/Library/Application%20Support/Mobirise.com/Mobirise/projectData/dsc-0005-2-2000x1328-74.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/JFhoH2xX2Ck?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#12a5f4",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Fale com a Primus",
+          "text": "<p>Solicite esclarecimentos, dê sugestões, solicite nossa cotação. Estamos aqui, do outro lado da tela, aguardando seu contato.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.8rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.866rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#8f2625"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#ac2e2c!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#b8312f"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-o",
+          "_params": {
+            "bgColor": "#b8312f",
+            "fontSize": "0.8",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": false,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-pp-128x128-1.png",
+              "height": 128,
+              "alt": "LOGO",
+              "link": "https://#",
+              "title": "LOGO",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIMUS Contabilidade</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"primus.html\">A EMPRESA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"servicos.html\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contato.html\">CONTATO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "19px"
+            },
+            "H2": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-s",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgColor": "#ffffff"
+          },
+          "text": "<h2>Chat, E-mail ou Telefone</h2><p>Disponibilizamos várias canais de atendimento para atender a todas as necessidades e momentos. Fora do nosso horário de atendimento prefira o formulário abaixo, sua mensagem será registrada aguardando nosso próximo expediente.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_anchor": "form1-u",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Formulário de Contato",
+          "subtitle": "Seja qual for sua necessidade, estamos aqui, sempre que precisar.",
+          "form": {
+            "action": "anthonygoncalvesadv@gmail.com",
+            "alerts": {
+              "success": "Enviado! Sua solicitação será respondida por e-mail, agradecemos o contato."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "E-mail*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Tel/Cel"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Sua mensagem para a Primus Contabilidade"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar Mensagem</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "msg-box1-t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#12a5f4",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"skype:douglasnegreiros.net?chat\" data-toolbar=\"-mbrBtnMove\">INICIAR CHAT</a>",
+          "text": "Clique no botão para iniciar o atendimento",
+          "title": "Atendimento via skype"
+        },
+        {
+          "_inherit": "features4",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#12a5f4",
+              "border-color": "#12a5f4"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          },
+          "_name": "features7",
+          "_anchor": "features7-v",
+          "_params": {
+            "iconsBgColor": "#12a5f4",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "link": "tel:+5522992099000",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title1": "Por Telefone&nbsp;",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "TEL: +55 (22) 9999-8765&nbsp;<br>TEL: +55 (22) 9900-3216&nbsp;<br>CEL: +55 (22) 9900-9000<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "link": "mailto:anthonygoncalvesadv@gmail.com?subject=Contato via Site",
+              "size": 0,
+              "color": "#ffffff",
+              "newWindow": false
+            }
+          },
+          "title2": "Endereço para Correspondência",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Rua Av. Rio de Janeiro,<br>724, Centro, Rio de Janeiro/RJ<br>CEP 27910-100",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "contato.html#map2-x",
+              "size": 0,
+              "color": "#fff",
+              "newWindow": false
+            }
+          },
+          "title3": "Horários de atendimento",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Segunda à Sexta: 8h às 19h <br>Sábado de  9h até às 13h<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Se preferir, venha tomar um café!",
+          "meta": "Abertos para atendimento de Segunda à Sexta: 8h às 19h e aos&nbsp;Sábados de  9h às 13h"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 4,
+            "bgColor": "#efefef",
+            "googleMap": {
+              "address": "Rio de Janero, Centro, 1500, Brasil",
+              "placeId": "ChIJJW0Ar0JD65QRp3jlQFJlNds",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/primus-gray-2-128x128-80.png",
+              "width": 128,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
+          "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
+          "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-q",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,

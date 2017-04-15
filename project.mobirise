@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "primus.html",
+    "currentPage": "index.html",
     "versionFirst": "3.3",
     "versionPublish": "3.10.1",
     "name": "Primus Contabilidade",
@@ -424,8 +424,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
-          "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
+          "text1": "<strong>Endereço</strong><br>Rua Luís Leopoldo Fernandes Pinheiro, 572, 10º andar, Centro, Niterói<br>CEP 24030-123",
+          "text2": "<strong>Contatos</strong><br>E-mail: contato@primuscont.com.br<br>Fixo: +55 (21) 2613-5261<br>Fixo: +55 (21) 2649-2176<br>Fixo: +55 (21) 2649-2983<br>",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
         },
         {
@@ -770,8 +770,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
-          "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
+          "text1": "<strong>Endereço</strong><br>Rua Luís Leopoldo Fernandes Pinheiro, 572, 10º andar, Centro, Niterói<br>CEP 24030-123",
+          "text2": "<strong>Contatos</strong><br>E-mail: contato@primuscont.com.br<br>Fixo: +55 (21) 2613-5261<br>Fixo: +55 (21) 2649-2176<br>Fixo: +55 (21) 2649-2983<br>",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
         },
         {
@@ -1138,8 +1138,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
-          "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
+          "text1": "<strong>Endereço</strong><br>Rua Luís Leopoldo Fernandes Pinheiro, 572, 10º andar, Centro, Niterói<br>CEP 24030-123",
+          "text2": "<strong>Contatos</strong><br>E-mail: contato@primuscont.com.br<br>Fixo: +55 (21) 2613-5261<br>Fixo: +55 (21) 2649-2176<br>Fixo: +55 (21) 2649-2983<br>",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
         },
         {
@@ -1402,7 +1402,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"skype:douglasnegreiros.net?chat\" data-toolbar=\"-mbrBtnMove\">INICIAR CHAT</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"skype:anthony_10445?chat\" data-toolbar=\"-mbrBtnMove\">INICIAR CHAT</a>",
           "text": "Clique no botão para iniciar o atendimento",
           "title": "Atendimento via skype"
         },
@@ -1463,7 +1463,7 @@
           },
           "title1": "Por Telefone&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "TEL: +55 (22) 9999-8765&nbsp;<br>TEL: +55 (22) 9900-3216&nbsp;<br>CEL: +55 (22) 9900-9000<br>",
+          "caption1": "Fixo: +55 (21) 2613-5261<br>Fixo: +55 (21) 2649-2176<br>Fixo: +55 (21) 2649-2983<br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1480,7 +1480,7 @@
           },
           "title2": "Endereço para Correspondência",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Rua Av. Rio de Janeiro,<br>724, Centro, Rio de Janeiro/RJ<br>CEP 27910-100",
+          "caption2": "Rua Luís Leopoldo Fernandes Pinheiro, 572, 10º andar, Centro, Niterói - RJ<br>CEP 24030-123",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1579,8 +1579,8 @@
             "paddingBottom": 4,
             "bgColor": "#efefef",
             "googleMap": {
-              "address": "Rio de Janero, Centro, 1500, Brasil",
-              "placeId": "ChIJJW0Ar0JD65QRp3jlQFJlNds",
+              "address": "Rua Luís Leopoldo Fernandes Pinheiro, 572, Centro, Niterói",
+              "placeId": "ChIJSdYousODmQARc55beLhoaC8",
               "state": "ok",
               "stateDetails": ""
             }
@@ -1620,8 +1620,8 @@
               "size": 0
             }
           },
-          "text1": "<strong>Endereço</strong><br>Endereço Rua do Contador, n 10, Centro.&nbsp;Niterói - RJ /&nbsp;CEP 27937-200",
-          "text2": "<strong>Contatos</strong><br>\nEmail: suporte@primus.com.br<br>\nCelular: +55 (22) 99999-9999<br>\nFico: +55 (22) 2515-5554",
+          "text1": "<strong>Endereço</strong><br>Rua Luís Leopoldo Fernandes Pinheiro, 572, 10º andar, Centro, Niterói<br>CEP 24030-123",
+          "text2": "<strong>Contatos</strong><br>E-mail: contato@primuscont.com.br<br>Fixo: +55 (21) 2613-5261<br>Fixo: +55 (21) 2649-2176<br>Fixo: +55 (21) 2649-2983<br>",
           "text3": "<strong>Links</strong><br><a class=\"text-primary\" href=\"https://packup.alterdata.com.br/PRIMUS\" target=\"_blank\">LOGIN</a><br><a class=\"text-primary\" href=\"index.html\">POLíTICA DE PRIVACIDADE</a><br><a class=\"text-primary\" href=\"contato.html\">FALE CONOSCO</a>"
         },
         {

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "primus.html",
     "versionFirst": "3.3",
     "versionPublish": "3.10.1",
     "name": "Primus Contabilidade",
@@ -1006,7 +1006,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/cyoWjSjEbwI",
+              "src": "https://www.youtube.com/watch?v=lkJnFT5AdjM",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
